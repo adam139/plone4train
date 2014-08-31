@@ -1,0 +1,3 @@
+[submodule "src/plonetheme.ploneorg"]
+	path = src/plonetheme.ploneorg
+	url = https://github.com/plone/plonetheme.ploneorg.git
